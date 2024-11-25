@@ -13,3 +13,7 @@ a:hover{
 a:active{
   color: green;
 }
+
+body{
+  background-color: azure;
+}
